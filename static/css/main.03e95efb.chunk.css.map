@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAIA,qBACI,UACJ","file":"main.03e95efb.chunk.css","sourcesContent":["/* @import '~antd/dist/antd.css'; */\r\n/* @import '~antd/dist/antd.compact.css'; */\r\n/* @import '~antd/dist/antd.dark.css'; */\r\n\r\ndiv.ant-input-number {\r\n    width: 100%;\r\n}"]}
