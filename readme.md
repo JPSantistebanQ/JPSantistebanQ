@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Piero Santisteban Quiroz</h1>
-<h3 align="center">A passionate systems engineer and full-stack developer from Peru</h3>
+<h3 align="center">A passionate systems engineer and senior full-stack developer from Peru</h3>
 
-- 🌱 I’m currently learning **master in software engineering**
+- 🌱 I have a Master degree in **Software Engineering** from **Universidad Nacional Mayor de San Marcos**
 
 - 👨‍💻 All of my projects are available at [https://jpsantistebanq.github.io/portfolio/](https://jpsantistebanq.github.io/portfolio/)
 
