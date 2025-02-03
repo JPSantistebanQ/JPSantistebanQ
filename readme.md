@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jpsantq@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=JPSantistebanQ)
+![](https://komarev.com/ghpvc/?username=JPSantistebanQ&abbreviated=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
