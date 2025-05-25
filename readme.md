@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=JPSantistebanQ&abbreviated=true)
 
-[//]: ![](https://komarev.com/ghpvc/?username=JPSantistebanQPortfolio&label=Portfolio+views&color=blueviolet)
+[//]: ![](https://komarev.com/ghpvc/?username=JPSantistebanQPortfolio&label=Portfolio+views&color=blueviolet&abbreviated=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
